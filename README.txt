@@ -1,0 +1,1 @@
+This is a repo for my personal website and it's focus is to develope skills pertaining to HTML, CSS and Javascript.
